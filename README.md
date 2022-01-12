@@ -2,10 +2,8 @@
 CodeMash 2022 Session Details
 
 Workshop URL:
-https://async-messaging.workshop.aws/prerequisites.html
+https://catalog.us-east-1.prod.workshops.aws/v2/workshops/63320e83-6abc-493d-83d8-f822584fb3cb/en-US/getting-started/self-hosted
 
-Lab 2:
-https://async-messaging.workshop.aws/topic-queue-chaining-and-load-balancer.html
 
 Event Login:
 https://dashboard.eventengine.run/login
